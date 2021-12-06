@@ -1,0 +1,8 @@
+# ignore all files except for .py files and git-related files
+*
+!.gitattributes
+!.gitignore
+!.README.md
+!.gitkeep
+!*.py
+!*.sh
